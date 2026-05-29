@@ -2,7 +2,7 @@
 
 This repository contains my Data Structures & Algorithms practice solutions and coding journey documentation.
 
-I'm using this repository to::
+I'm using this repository to:
 
 * Improve problem-solving skills
 * Build consistency in coding
