@@ -16,7 +16,7 @@ I'm using this repository to:
 ## Topics Covered
 
 * Arrays
-* Strings
+* String
 * Linked Lists
 * Binary Search
 * Recursion
