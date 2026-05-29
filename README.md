@@ -4,7 +4,7 @@ This repository contains my Data Structures & Algorithms practice solutions and 
 
 I'm using this repository to:
 
-* Improve problem-solving skills
+* Improve problem-solving skill 
 * Build consistency in coding
 * Prepare for technical interviews
 * Strengthen DSA fundamentals
